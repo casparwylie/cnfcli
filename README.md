@@ -3,7 +3,7 @@ CLI tool based on command-not-found.com, providing installation suggestions for 
 
 ## Install
 
-`pip install cnfcli`
+`pip3 install cnfcli`
 
 ## Usage
 
