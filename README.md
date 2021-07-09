@@ -1,4 +1,6 @@
-# cnfcli
+# cnf-cli
+https://pypi.org/project/cnfcli/
+
 CLI tool based on command-not-found.com, providing installation suggestions for any command.
 
 ## Installation
